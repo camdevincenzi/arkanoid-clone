@@ -1,0 +1,16 @@
+import pygame
+
+ANCHO = 800
+ALTO = 600
+
+BLANCO = (255, 255, 255)
+NEGRO = (0, 0, 0)
+ROJO = (255, 0, 0)
+NARANJA = (235, 106, 14)
+ROSA = (230, 50, 68)
+VERDE = (36, 231, 17)
+CELESTE = (93, 155, 155)
+
+MARGEN = 16
+COLUMNAS = 12
+FILAS = 6
